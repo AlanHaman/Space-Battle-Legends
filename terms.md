@@ -96,8 +96,6 @@ You download the game from Apple's App Store, or from Google Play. The store is 
 
 If there is ever a legal dispute between us, it is settled under **Danish law** and can be brought before the Danish courts, because that is where we are based.
 
-This does not take away consumer rights. If the country you live in gives you consumer protections that cannot be signed away, you keep them.
-
 ## 15. Changes to these Terms
 
 We may update these Terms. Where a change matters, we will say so in the game before it takes effect. Continuing to play after that means you accept the updated Terms.
