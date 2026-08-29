@@ -5,14 +5,14 @@ title: "Terms of Service: Space Battle Legends"
 
 # Terms of Service
 
-**Space Battle Legends**
+**Space Battle Legends**  
 Last updated: 29 August 2026
 
 These Terms of Service ("Terms") govern your use of the Space Battle Legends game ("the game"). The game is operated by Alan Haman, Denmark ("we", "us"). By playing, you agree to these Terms. If you do not agree, do not play.
 
 ## 1. What Space Battle Legends is
 
-Space Battle Legends is a real time multiplayer battler for iPhone and iPad. You build a deck of cards, play units and spells onto a battlefield against another player, and climb a trophy ladder. It also has clans, friends, chat, and a leaderboard.
+Space Battle Legends is a real time multiplayer battler for phones and tablets. You build a deck of cards, play units and spells onto a battlefield against another player, and climb a trophy ladder. It also has clans, friends, chat, and a leaderboard.
 
 The game is free to download and free to play. **This version has no in-app purchases.** Gems and gold exist inside the game and are earned by playing, but they cannot be bought with real money in this release.
 
@@ -24,7 +24,7 @@ You must be **at least 13 years old**. In some countries the App Store rating fo
 
 The game creates an account for you on first launch, tied to your device. You do not choose a password. This means:
 
-- **Your account lives on that device unless you link it.** You can link it to Sign in with Apple in Settings, under Account. If you do not, and you lose or replace your device or delete the game, your progress is likely to be gone and we will not usually be able to recover it.
+- **Your account lives on that device unless you link it.** You can link it to Sign in with Apple, or to Google Sign-In on Android, in Settings under Account. If you do not, and you lose or replace your device or delete the game, your progress is likely to be gone and we will not usually be able to recover it.
 - You are responsible for what happens on your account, including anything sent from it in chat.
 - One account per person. Do not use extra accounts to gain an advantage, to evade a block, or to evade a ban.
 - You can delete your account at any time in the game, in Settings. See [Delete Your Account](./delete-account.html).
@@ -56,7 +56,7 @@ The game has clan chat and direct messages between friends. **We have zero toler
 
 **Tools you have.** You can **report** a player or an individual message from inside the game, choosing a category. You can **block** a player, which stops their content reaching you. You can **mute** a player. In Settings you can limit direct messages to friends only, or switch them off entirely.
 
-**What we do.** We review reports and act on objectionable content **within 24 hours**, including removing content and removing the players responsible. We may remove content, suspend an account, or ban it permanently, without prior warning where that is necessary. You can appeal a decision by emailing us at the address at the foot of this page.
+**What we do.** We review reports regularly and act on objectionable content, including removing it and removing the players responsible. We may remove content, suspend an account, or ban it permanently, without prior warning where that is necessary. You can appeal a decision by emailing us at the address at the foot of this page.
 
 ## 6. Clans
 
@@ -88,13 +88,15 @@ You may stop playing and delete your account at any time. We may suspend or end 
 
 Nothing here limits liability that cannot be limited under Danish law, including liability for gross negligence or intent, and nothing affects your mandatory rights as a consumer under Danish and EU consumer law. Subject to that, we are not liable for indirect losses, for lost progress or lost virtual items, or for interruptions to a free service.
 
-## 13. The App Store
+## 13. The app stores
 
-You download the game from Apple's App Store. Apple is not a party to these Terms and is not responsible for the game. Your use of the App Store is also governed by Apple's own terms, including its standard licence agreement for apps.
+You download the game from Apple's App Store, or from Google Play. The store is not a party to these Terms and is not responsible for the game. Your agreement about the game is with us. Your use of the store itself is covered by that store's own terms.
 
-## 14. Governing law
+## 14. Which country's law applies
 
-These Terms are governed by **Danish law**, and disputes may be brought before the Danish courts. As a consumer you keep the protections given to you by the mandatory rules of the country you live in.
+If there is ever a legal dispute between us, it is settled under **Danish law** and can be brought before the Danish courts, because that is where we are based.
+
+This does not take away consumer rights. If the country you live in gives you consumer protections that cannot be signed away, you keep them.
 
 ## 15. Changes to these Terms
 
@@ -102,5 +104,5 @@ We may update these Terms. Where a change matters, we will say so in the game be
 
 ## 16. Contact
 
-**Space Battle Legends**
+**Space Battle Legends**  
 Email: **gomerd.haman12@gmail.com**

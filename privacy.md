@@ -5,7 +5,7 @@ title: "Privacy Policy: Space Battle Legends"
 
 # Privacy Policy
 
-**Space Battle Legends**
+**Space Battle Legends**  
 Last updated: 29 August 2026
 
 This Privacy Policy explains what personal data the Space Battle Legends game ("the game", "we") collects, how it is used, who it is shared with, and the rights you have over it. We process personal data in accordance with the EU General Data Protection Regulation (GDPR) and Danish data protection law.
@@ -22,15 +22,15 @@ This Privacy Policy explains what personal data the Space Battle Legends game ("
 
 **Space Battle Legends** is operated by:
 
-Alan Haman
-Denmark
+Alan Haman  
+Denmark  
 Email: **gomerd.haman12@gmail.com**
 
 If you have any question or request about your personal data, write to the address above.
 
 ## 2. What data we collect
 
-**Account data.** There is no sign-up form. The first time you open the game, it creates a player account using the identifier that iOS gives this app for your device. That identifier is specific to Space Battle Legends and is not shared with other apps. It works as your login, which is why your progress survives closing the game but is tied to the device until you link an account. You choose a username, which other players can see and which you can change in the game.
+**Account data.** There is no sign-up form. The first time you open the game, it creates a player account using the identifier that your phone or tablet's operating system gives this app. That identifier is specific to Space Battle Legends and is not shared with other apps. It works as your login, which is why your progress survives closing the game but is tied to the device until you link an account. You choose a username, which other players can see and which you can change in the game.
 
 **Sign in with Apple (optional).** You can link your player account to your Apple account in Settings, under Account, so that you keep your progress if you lose or replace your phone. If you do, the sign in token from Apple is sent to our server so it can attach your Apple account to your player account. We receive the account identifier Apple gives us and, if you choose to share rather than hide it, your email address. We use these only to recognise you when you sign in again. We do not send you email. (On Android the same thing is available through Google Sign-In.)
 
@@ -94,7 +94,7 @@ We use **Sentry** to find out when the game crashes or hits an error, so that we
 |---|---|---|
 | **Hetzner Online GmbH** | Hosting for the game server and its database, where your account, progress and messages live | Germany |
 | **Sentry** | Crash and error reporting | European Union |
-| **Apple** | Sign in with Apple, if you choose to link it | Per Apple's own terms |
+| **Apple / Google** | Sign in with Apple, or Google Sign-In on Android, if you choose to link it | Per their own terms |
 
 **Authorities.** We disclose data only where the law requires it.
 
@@ -113,12 +113,13 @@ Your data is stored and processed **in the European Union**. The game server and
 
 - All traffic between the game and our server is encrypted in transit (HTTPS and TLS).
 - The server is access controlled, and the database is not reachable from the public internet.
-- The login token stored on your device is obscured before it is written to disk, so it is not sitting there in plain text.
-- Your progress is held server side and validated on the server, which is what stops other players from tampering with matches and rewards.
+- Your account, progress, currency and trophies are stored and updated on our server rather than on your device.
+
+No system is perfectly secure, and we do not claim this one is.
 
 **Something we want to be clear about:** chat in Space Battle Legends is **not end to end encrypted**. Messages are stored on our server, protected by the measures above, and we can read them in narrow circumstances, in particular when a message is reported and has to be reviewed, or where the law requires it. Please do not share sensitive personal information in chat.
 
-**If a data breach happens:** we will notify the Danish Data Protection Authority (Datatilsynet) within 72 hours as required by Art. 33 GDPR, and tell affected players without undue delay where the breach is likely to put them at high risk.
+**If a data breach happens:** once we become aware of it, we will notify the Danish Data Protection Authority (Datatilsynet) within 72 hours, as Art. 33 GDPR requires, and tell affected players where the breach is likely to put them at high risk.
 
 ## 10. Your rights
 
@@ -140,7 +141,7 @@ You also have the right to complain to the Danish Data Protection Authority:
 
 Space Battle Legends is rated for players aged **13 and over**, and in some countries the App Store rating is higher. The game has chat between players, which is why it is not aimed at younger children. We do not knowingly collect data from anyone below the applicable age. If you believe a child below it is playing, contact us and we will delete the account.
 
-Parents can restrict downloads and purchases using Screen Time on iPhone and iPad.
+Parents can restrict downloads using Screen Time on iPhone and iPad, or Family Link and Google Play parental controls on Android.
 
 ## 12. Changes to this policy
 
@@ -148,5 +149,5 @@ If we change this policy in a way that matters, we will say so in the game befor
 
 ## 13. Contact
 
-**Space Battle Legends** (Alan Haman, data controller)
+**Space Battle Legends** (Alan Haman, data controller)  
 Email: **gomerd.haman12@gmail.com**
