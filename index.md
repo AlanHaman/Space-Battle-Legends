@@ -40,4 +40,4 @@ No. This version has no purchases of any kind. Gems and gold are earned by playi
 Email us with your device model, its operating system version, and what you were doing when it happened. A screenshot or a short screen recording helps a great deal, especially for anything visual or anything that happened mid match.
 
 **The game will not connect.**
-Wild Crowns needs an internet connection for every match, because matches run on our server. If it will not connect, check your connection first, then try again in a few minutes in case the server is being updated. If it keeps happening, email us and say roughly when it started.
+Wild Crowns needs an internet connection for every match, because matches run on our server. If it will not connect, check your connection first, then try again in a few minutes in case the server is being updated. If it keeps happening, email us and say roughly when it started
