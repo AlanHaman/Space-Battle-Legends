@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Delete Your Account: Space Battle Legends"
+title: "Delete Your Account: Wild Crowns"
 ---
 
 # Delete Your Account
 
-You can delete your Space Battle Legends account and everything on it at any time, from inside the game. Deletion is **immediate and permanent**, and it cannot be undone. There is no recovery, no grace period, and no way for us to restore your progress afterwards.
+You can delete your Wild Crowns account and everything on it at any time, from inside the game. Deletion is **immediate and permanent**, and it cannot be undone. There is no recovery, no grace period, and no way for us to restore your progress afterwards.
 
 ## Option 1: In the game (recommended, instant)
 
-1. Open **Space Battle Legends**
+1. Open **Wild Crowns**
 2. Tap the **gear icon** on the main menu to open **Settings**
 3. Scroll to the bottom and tap **DELETE ACCOUNT**
 4. Confirm twice. The second dialog is headed **FINAL WARNING**, and the button is **DELETE FOREVER**

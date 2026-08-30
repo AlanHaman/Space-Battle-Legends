@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Terms of Service: Space Battle Legends"
+title: "Terms of Service: Wild Crowns"
 ---
 
 # Terms of Service
 
-**Space Battle Legends**  
+**Wild Crowns**  
 Last updated: 29 August 2026
 
-These Terms of Service ("Terms") govern your use of the Space Battle Legends game ("the game"). The game is operated by Alan Haman, Denmark ("we", "us"). By playing, you agree to these Terms. If you do not agree, do not play.
+These Terms of Service ("Terms") govern your use of the Wild Crowns game ("the game"). The game is operated by Alan Haman, Denmark ("we", "us"). By playing, you agree to these Terms. If you do not agree, do not play.
 
-## 1. What Space Battle Legends is
+## 1. What Wild Crowns is
 
-Space Battle Legends is a real time multiplayer battler for phones and tablets. You build a deck of cards, play units and spells onto a battlefield against another player, and climb a trophy ladder. It also has clans, friends, chat, and a leaderboard.
+Wild Crowns is a real time multiplayer battler for phones and tablets. You build a deck of cards, play units and spells onto a battlefield against another player, and climb a trophy ladder. It also has clans, friends, chat, and a leaderboard.
 
 The game is free to download and free to play. **This version has no in-app purchases.** Gems and gold exist inside the game and are earned by playing, but they cannot be bought with real money in this release.
 
@@ -102,5 +102,5 @@ We may update these Terms. Where a change matters, we will say so in the game be
 
 ## 16. Contact
 
-**Space Battle Legends**  
+**Wild Crowns**  
 Email: **gomerd.haman12@gmail.com**
